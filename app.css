@@ -1,0 +1,32 @@
+h1{
+    background-color: blue;
+    width:50%;
+    height: 60px;
+}
+div{
+    width:200px;
+    height: 200px;
+}
+#one{
+    border-width: 5px;
+    border-color: greenyellow;
+    border-style:dotted ;
+    background-color: rgb(255,155,40);
+    border-top-width:2px;
+    padding: 50px;
+    margin: 25px;
+}
+#two{
+    border: 4px solid yellow;
+    background-color: black;
+    color:white;
+    padding: 20px 100px;
+    margin:auto;
+
+}
+#three{
+    border: 2px solid blue;
+    background-color: aquamarine;
+    padding: 25px 40px 20px 50px;
+    border-radius: 45%;
+}
