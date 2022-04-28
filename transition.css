@@ -1,0 +1,71 @@
+#t{
+    border: 4px solid blue;
+    height: 250px;
+    width: 250px;
+    background-color: gray;
+    transition:  1s;
+}
+#t:hover{
+    background-color: brown;
+    border-radius: 50%;
+}
+#o{
+    border: 2px solid gray;
+    background-color: cadetblue;
+    width: 80px;
+    margin:10px;
+    padding:10px; 
+    height:25px;    
+}
+#l{
+    border: 2px solid gray;
+    background-color: cadetblue;
+    width: 80px;
+    margin:10px;
+    padding:10px; 
+    height:25px;    
+}
+#p{
+    border: 2px solid gray;
+    background-color: cadetblue;
+    width: 80px;
+    margin:10px;
+    padding:10px; 
+    height:25px;    
+}
+#i{
+    border: 2px solid gray;
+    background-color: cadetblue;
+    width: 80px;
+    margin:10px;
+    padding:10px; 
+    height:25px;    
+}
+#i:hover
+{
+    color:green;
+    background-color:yellow;
+    margin-left:100px;
+    transition: 2s;
+}
+#p:hover
+{
+    color:green;
+    background-color:yellow;
+    margin-top:100px;
+    transition: 2s;
+}
+#l:hover
+{
+    color:green;
+    background-color:yellow;
+    margin-left:90px;
+    transition: 2s;
+}
+#o:hover
+{
+    color:green;
+    background-color:yellow;
+    margin-left:50%;
+    transition: 2s;
+}
